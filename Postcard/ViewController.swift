@@ -84,6 +84,8 @@ class ViewController: UIViewController {
         sendMailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         sendMailButton.enabled = false
         sendMailButton.backgroundColor = UIColor(red:1.0,green:0.5,blue:0.0,alpha:0.10)
+        
+        //Adding a comment here to test commits
     }
     
 }
